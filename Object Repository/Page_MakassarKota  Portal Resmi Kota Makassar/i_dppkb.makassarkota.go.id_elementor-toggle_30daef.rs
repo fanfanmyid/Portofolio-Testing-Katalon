@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_dppkb.makassarkota.go.id_elementor-toggle_30daef</name>
+   <tag></tag>
+   <elementGuidId>b019d0b4-2266-4d14-9e8c-79c9388239a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-17618 > span.elementor-toggle-icon.elementor-toggle-icon-left > span.elementor-toggle-icon-opened > i.elementor-toggle-icon-opened.fas.fa-caret-up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-17618']/span/span[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b8a30cf2-acba-4665-bae0-8b1214bfef58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-icon-opened fas fa-caret-up</value>
+      <webElementGuid>8c7bfe4d-af96-4165-abce-72bf52b30cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-17618&quot;)/span[@class=&quot;elementor-toggle-icon elementor-toggle-icon-left&quot;]/span[@class=&quot;elementor-toggle-icon-opened&quot;]/i[@class=&quot;elementor-toggle-icon-opened fas fa-caret-up&quot;]</value>
+      <webElementGuid>d88bf06e-9988-4e43-8616-c4dd5e8abc5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-17618']/span/span[2]/i</value>
+      <webElementGuid>ab3535be-c103-45a7-ba26-a8b503863e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div/span/span[2]/i</value>
+      <webElementGuid>9ff55a6b-61a8-4fd9-ac42-5a2f76857595</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DINAS PEKERJAAN UMUM</name>
+   <tag></tag>
+   <elementGuidId>39612780-8839-443f-9ec3-056f395404b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-17611 > a.elementor-toggle-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-17611']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0048e4e5-88ce-4f71-a3de-2fb2c1505a80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-title</value>
+      <webElementGuid>48f9bf34-36dd-44f3-b473-295010b332c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DINAS PEKERJAAN UMUM</value>
+      <webElementGuid>8152d1f8-8646-4ffc-948f-bac5a79bddad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-17611&quot;)/a[@class=&quot;elementor-toggle-title&quot;]</value>
+      <webElementGuid>3ebd138e-b321-49c6-a813-29e19658e9f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-17611']/a</value>
+      <webElementGuid>a7b56e86-1b3e-44b5-9b39-16128c633b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DINAS PEKERJAAN UMUM')]</value>
+      <webElementGuid>c682d260-c83e-4112-ab12-bc1c32b95ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='explore.makassarkota.go.id'])[1]/following::a[1]</value>
+      <webElementGuid>d0fef5ac-7552-42a8-a9eb-445e4957db53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[30]/following::a[2]</value>
+      <webElementGuid>172357ab-52ab-428f-9cca-88afa3e9167f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[11]/preceding::a[1]</value>
+      <webElementGuid>72c479b1-4474-4c73-87f2-01c72941d802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[31]/preceding::a[1]</value>
+      <webElementGuid>4f51596f-3c09-4065-b819-4df347467d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DINAS PEKERJAAN UMUM']/parent::*</value>
+      <webElementGuid>6fe8d2e1-48b9-4154-9ca8-f3f5e02ddf4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[92]</value>
+      <webElementGuid>644c9150-57e9-43c2-9baa-50a1cbb9129c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/a</value>
+      <webElementGuid>58fd2e12-380c-4af8-b086-89c6d342e950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'DINAS PEKERJAAN UMUM' or . = 'DINAS PEKERJAAN UMUM')]</value>
+      <webElementGuid>01d3ffaa-6092-4ecf-a079-6dba64823e19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

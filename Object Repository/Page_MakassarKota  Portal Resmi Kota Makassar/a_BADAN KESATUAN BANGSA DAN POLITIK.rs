@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BADAN KESATUAN BANGSA DAN POLITIK</name>
+   <tag></tag>
+   <elementGuidId>c8bde405-c306-478e-addf-439005c3888e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-2102 > a.elementor-toggle-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-2102']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>359ac4f0-f98d-4ada-a4a0-ce506733f055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-title</value>
+      <webElementGuid>8284d8cf-b10e-497b-8bbc-971bd030f85b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BADAN KESATUAN BANGSA DAN POLITIK</value>
+      <webElementGuid>6dae1a98-b3ef-4f96-a756-5c687fb9c566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-2102&quot;)/a[@class=&quot;elementor-toggle-title&quot;]</value>
+      <webElementGuid>f445ff04-a1ae-4e78-97ff-ebaeec4cbb89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-2102']/a</value>
+      <webElementGuid>6f0f4ccb-84cf-41ba-bc23-c7e2628fcf14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BADAN KESATUAN BANGSA DAN POLITIK')]</value>
+      <webElementGuid>39d317b1-1a60-464a-98cb-5c8d170ea873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bkpsdmd.makassar.go.id'])[1]/following::a[1]</value>
+      <webElementGuid>b371e16b-9e99-4417-a1d8-6c7d7740f823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[108]/following::a[2]</value>
+      <webElementGuid>c01ad48d-4203-4028-a06a-811eda054acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[41]/preceding::a[1]</value>
+      <webElementGuid>df6032b4-42de-43c1-a699-b474c4ea5852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[109]/preceding::a[1]</value>
+      <webElementGuid>c3f888b1-e70a-44e0-ae1f-6be50042d1e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BADAN KESATUAN BANGSA DAN POLITIK']/parent::*</value>
+      <webElementGuid>cd08fb7b-5da8-4bd5-9419-c4442e9fb0e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[162]</value>
+      <webElementGuid>415e5aa2-fb20-46d2-85ed-42ca20651353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]/div/section/div/div/div/div/div/div/div[2]/div/a</value>
+      <webElementGuid>7bc4e0b0-35bf-49bd-88d6-cf96d57c55c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'BADAN KESATUAN BANGSA DAN POLITIK' or . = 'BADAN KESATUAN BANGSA DAN POLITIK')]</value>
+      <webElementGuid>a7723c86-3413-4838-952e-51bd698653ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

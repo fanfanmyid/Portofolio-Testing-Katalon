@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DINAS KOMUNIKASI DAN INFORMATIKA</name>
+   <tag></tag>
+   <elementGuidId>53d5d8e2-d686-4012-9ecc-e3f4aff998bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-1767 > a.elementor-toggle-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-1767']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e2b7affd-aee8-473d-ab8a-34b6cfaec199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-title</value>
+      <webElementGuid>c759a1cf-0ee8-4903-8eae-62895fa702b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DINAS KOMUNIKASI DAN INFORMATIKA</value>
+      <webElementGuid>f37f40b6-8855-4304-871a-d695fee5d744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-1767&quot;)/a[@class=&quot;elementor-toggle-title&quot;]</value>
+      <webElementGuid>d5bad5a2-fa3c-460b-a045-7c5cf4f1b427</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-1767']/a</value>
+      <webElementGuid>b303613f-92c5-466d-b00c-213fafe5522d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DINAS KOMUNIKASI DAN INFORMATIKA')]</value>
+      <webElementGuid>6e37509d-584c-4bce-93d4-efb4adb5576c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='disnaker.makassarkota.go.id'])[1]/following::a[1]</value>
+      <webElementGuid>171c4ba3-8fa7-4748-9ca5-a15fd06e263a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[18]/following::a[2]</value>
+      <webElementGuid>e575db57-8648-4e10-99bd-ff2bc0d6b7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[7]/preceding::a[1]</value>
+      <webElementGuid>9d4d9f5d-ec57-48f3-a50f-d932a7ecca89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[19]/preceding::a[1]</value>
+      <webElementGuid>a70158ce-512e-4132-97ca-b52d56646c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DINAS KOMUNIKASI DAN INFORMATIKA']/parent::*</value>
+      <webElementGuid>51f2572c-da24-4812-8d07-b0379afa49cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[80]</value>
+      <webElementGuid>80d5a41d-c105-4682-b3cf-1d74b8ddd22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/a</value>
+      <webElementGuid>3602b810-b9fe-4194-bb75-38d7ce0b93ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'DINAS KOMUNIKASI DAN INFORMATIKA' or . = 'DINAS KOMUNIKASI DAN INFORMATIKA')]</value>
+      <webElementGuid>2e8a0867-199c-4cc2-8e86-42635adc899f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

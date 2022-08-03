@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DINAS SOSIAL</name>
+   <tag></tag>
+   <elementGuidId>09d09dad-aa7a-425d-9030-d6df0405ea2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-17624 > a.elementor-toggle-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-17624']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>00b5fd2c-0222-418f-8187-a5c4d59dda91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-title</value>
+      <webElementGuid>338efc22-01c6-461d-bd6f-7f05e31a65f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DINAS SOSIAL</value>
+      <webElementGuid>92a659ea-4fe6-49a2-b903-a9e1a073a733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-17624&quot;)/a[@class=&quot;elementor-toggle-title&quot;]</value>
+      <webElementGuid>d44269cc-d99b-4ee8-9b1f-9b4d16bc2c34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-17624']/a</value>
+      <webElementGuid>c180b06d-5b99-47d3-b47c-618ccc4f8ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DINAS SOSIAL')]</value>
+      <webElementGuid>f58cee00-5282-4bf5-a75d-8b8e1bf43c70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='disperkim.makassarkota.go.id'])[1]/following::a[1]</value>
+      <webElementGuid>5b8f34da-0c56-4d9a-8682-5366d2971e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[69]/following::a[2]</value>
+      <webElementGuid>9d97aa24-4e04-4c54-b276-04edcd76d1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[24]/preceding::a[1]</value>
+      <webElementGuid>f1a377b6-2b56-44c3-99bf-82f1247834e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[70]/preceding::a[1]</value>
+      <webElementGuid>e0991dc4-527f-4ddf-b104-c8998c243ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DINAS SOSIAL']/parent::*</value>
+      <webElementGuid>684a75ec-8f93-44fb-a067-c55f819dbff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[130]</value>
+      <webElementGuid>a184184e-3aec-4fd3-a89e-51f03096d2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[24]/div/a</value>
+      <webElementGuid>f0da3ead-c845-4cd3-b7eb-87220231557b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'DINAS SOSIAL' or . = 'DINAS SOSIAL')]</value>
+      <webElementGuid>c9a7251d-55bf-4593-83dd-dfc356b422f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

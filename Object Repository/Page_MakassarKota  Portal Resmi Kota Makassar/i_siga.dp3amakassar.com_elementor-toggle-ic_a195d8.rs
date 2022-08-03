@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_siga.dp3amakassar.com_elementor-toggle-ic_a195d8</name>
+   <tag></tag>
+   <elementGuidId>49be0a26-9fb3-4c01-9583-9d372a927b09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-17614 > span.elementor-toggle-icon.elementor-toggle-icon-left > span.elementor-toggle-icon-opened > i.elementor-toggle-icon-opened.fas.fa-caret-up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-17614']/span/span[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6b6b4a29-1654-49f9-9293-c9d957521f74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-icon-opened fas fa-caret-up</value>
+      <webElementGuid>70e6f014-60a9-4a6c-b251-e1ef6a28fab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-17614&quot;)/span[@class=&quot;elementor-toggle-icon elementor-toggle-icon-left&quot;]/span[@class=&quot;elementor-toggle-icon-opened&quot;]/i[@class=&quot;elementor-toggle-icon-opened fas fa-caret-up&quot;]</value>
+      <webElementGuid>532ee1e9-8b8a-4069-846d-e1d0b159578a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-17614']/span/span[2]/i</value>
+      <webElementGuid>608a4c27-4913-4190-aa4a-88f73ad9e890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/span/span[2]/i</value>
+      <webElementGuid>8adcff21-465d-44a4-9aee-5ea605686873</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

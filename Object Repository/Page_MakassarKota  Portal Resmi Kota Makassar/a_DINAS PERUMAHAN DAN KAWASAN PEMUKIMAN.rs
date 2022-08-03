@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DINAS PERUMAHAN DAN KAWASAN PEMUKIMAN</name>
+   <tag></tag>
+   <elementGuidId>c5603055-3eb3-40d9-a075-a6b00f3f0a22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-17623 > a.elementor-toggle-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-17623']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fc64f38f-19bb-4ebb-92b2-b83ac60b7af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-title</value>
+      <webElementGuid>b2ed845c-c81b-4f9e-a45e-316f67f1636b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DINAS PERUMAHAN DAN KAWASAN PEMUKIMAN</value>
+      <webElementGuid>7c9ea001-1898-4e27-aa79-6829b1d0512e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-17623&quot;)/a[@class=&quot;elementor-toggle-title&quot;]</value>
+      <webElementGuid>4b4d0483-b385-447f-b9a8-57c372fa52cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-17623']/a</value>
+      <webElementGuid>25ac0fd8-d46f-4ecf-9c89-48ed9b955c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DINAS PERUMAHAN DAN KAWASAN PEMUKIMAN')]</value>
+      <webElementGuid>c6676d75-af1e-40a5-ab08-a6055bec287b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[66]/following::a[1]</value>
+      <webElementGuid>75d83e91-1f2b-4afa-a0ea-987f1fffc51e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[24]/following::a[1]</value>
+      <webElementGuid>d6f1ec24-60e1-432b-9c89-da46b9c59c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[23]/preceding::a[1]</value>
+      <webElementGuid>fe6404a6-bf0d-4c82-8fe2-625b1ce9957d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[67]/preceding::a[1]</value>
+      <webElementGuid>689d3493-da15-4c4e-ae43-1c646e7a7333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DINAS PERUMAHAN DAN KAWASAN PEMUKIMAN']/parent::*</value>
+      <webElementGuid>8aa2c3d9-a30b-46d2-b6e9-519d21fa28a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[127]</value>
+      <webElementGuid>fe683d2d-94e2-4e01-bb7c-e879d1215269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[23]/div/a</value>
+      <webElementGuid>6aa48b52-0f56-4407-aad3-be88de7083a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'DINAS PERUMAHAN DAN KAWASAN PEMUKIMAN' or . = 'DINAS PERUMAHAN DAN KAWASAN PEMUKIMAN')]</value>
+      <webElementGuid>dda0c5ce-832a-46b7-be88-c80a4e65dfb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

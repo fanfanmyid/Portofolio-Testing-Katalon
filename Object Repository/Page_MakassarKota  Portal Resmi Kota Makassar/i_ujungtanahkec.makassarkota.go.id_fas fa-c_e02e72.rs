@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ujungtanahkec.makassarkota.go.id_fas fa-c_e02e72</name>
+   <tag></tag>
+   <elementGuidId>b988d2c2-5419-413f-9a8b-655924b6a0c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-18215 > span.elementor-toggle-icon.elementor-toggle-icon-left > span.elementor-toggle-icon-closed > i.fas.fa-caret-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-18215']/span/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>50e41745-4b41-42c4-9fd2-8ca7a90a8e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-caret-right</value>
+      <webElementGuid>378157fa-39f7-4c7b-b2a9-11efbbc04438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-18215&quot;)/span[@class=&quot;elementor-toggle-icon elementor-toggle-icon-left&quot;]/span[@class=&quot;elementor-toggle-icon-closed&quot;]/i[@class=&quot;fas fa-caret-right&quot;]</value>
+      <webElementGuid>aa65398e-e645-45f0-ac65-15f6681e34d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-18215']/span/span/i</value>
+      <webElementGuid>83e259f7-a041-4a27-9f0a-5be35487d175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[2]/div/section/div/div/div/div/div/div/div[15]/div/span/span/i</value>
+      <webElementGuid>7aa2e400-4a0c-492e-bdac-008a431d1e44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

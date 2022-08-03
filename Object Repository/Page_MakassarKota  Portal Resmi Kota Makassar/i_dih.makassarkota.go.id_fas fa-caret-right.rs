@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_dih.makassarkota.go.id_fas fa-caret-right</name>
+   <tag></tag>
+   <elementGuidId>ba0e05db-f6dc-4b65-a0f9-1f93e9b2fa3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-17610 > span.elementor-toggle-icon.elementor-toggle-icon-left > span.elementor-toggle-icon-closed > i.fas.fa-caret-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-17610']/span/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d65ffe04-e9f8-4045-9cd3-606468020bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-caret-right</value>
+      <webElementGuid>18983886-edb4-4ba3-bb8c-6238ca5eb9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-17610&quot;)/span[@class=&quot;elementor-toggle-icon elementor-toggle-icon-left&quot;]/span[@class=&quot;elementor-toggle-icon-closed&quot;]/i[@class=&quot;fas fa-caret-right&quot;]</value>
+      <webElementGuid>e4288ebc-2629-4ead-936d-e282f61d9ac5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-17610']/span/span/i</value>
+      <webElementGuid>a82d051f-f2e1-4d45-b41d-4a3661d7f405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/span/span/i</value>
+      <webElementGuid>00dbbb1d-5c85-4845-a2aa-b6f80a32a851</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

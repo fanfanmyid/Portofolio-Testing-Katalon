@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__elementor-toggle-icon-opened fas fa-caret-up_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>20cc6125-d1c0-445f-b9b3-6da154ba46ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-1824 > span.elementor-toggle-icon.elementor-toggle-icon-left > span.elementor-toggle-icon-opened > i.elementor-toggle-icon-opened.fas.fa-caret-up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-1824']/span/span[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>440db9b0-c0bb-4a51-b256-db978183c76d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-icon-opened fas fa-caret-up</value>
+      <webElementGuid>dcdf57e9-7752-4f1d-9038-884ddfc2f95b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor71817&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc_content&quot;]/div[@class=&quot;elementor elementor-12430&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-5b865288 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-451ffef4&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-6cf29109 elementor-widget elementor-widget-toggle&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-toggle&quot;]/div[@class=&quot;elementor-toggle-item&quot;]/div[@id=&quot;elementor-tab-title-1824&quot;]/span[@class=&quot;elementor-toggle-icon elementor-toggle-icon-left&quot;]/span[@class=&quot;elementor-toggle-icon-opened&quot;]/i[@class=&quot;elementor-toggle-icon-opened fas fa-caret-up&quot;]</value>
+      <webElementGuid>a47e6387-307b-4056-9978-1f24f8b320c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-1824']/span/span[2]/i</value>
+      <webElementGuid>a7497111-22df-4ece-b833-b0955b8168b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[2]/div/section/div/div/div/div/div/div/div[4]/div/span/span[2]/i</value>
+      <webElementGuid>3cab04ff-f939-4f66-b481-aaaca49c8e8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

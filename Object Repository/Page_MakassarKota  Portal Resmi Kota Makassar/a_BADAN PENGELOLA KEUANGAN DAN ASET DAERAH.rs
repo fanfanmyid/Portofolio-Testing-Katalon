@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BADAN PENGELOLA KEUANGAN DAN ASET DAERAH</name>
+   <tag></tag>
+   <elementGuidId>7fe6242a-28d0-4339-852b-6ef80bf33d2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-2105 > a.elementor-toggle-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-2105']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>376a4d52-c524-4542-93ef-4563d508d2ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-title</value>
+      <webElementGuid>c1e430be-5198-4cac-81b9-0a9d18885501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BADAN PENGELOLA KEUANGAN DAN ASET DAERAH</value>
+      <webElementGuid>fc4dbc6d-129f-414a-81d0-1a10ac1d869b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-2105&quot;)/a[@class=&quot;elementor-toggle-title&quot;]</value>
+      <webElementGuid>19228707-b850-4b8e-861e-d93d25b24b08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-2105']/a</value>
+      <webElementGuid>b86655c5-ad1b-4b36-821f-7fadc99bc6fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BADAN PENGELOLA KEUANGAN DAN ASET DAERAH')]</value>
+      <webElementGuid>d2774b6f-f26a-477d-9b28-70973fa1833e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='balitbangda.makassar.go.id'])[1]/following::a[1]</value>
+      <webElementGuid>8ce0d265-0b23-4079-93a4-054c8eecc0cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[117]/following::a[2]</value>
+      <webElementGuid>cc29b867-1f82-42a9-b501-743042c31fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[44]/preceding::a[1]</value>
+      <webElementGuid>2f2e542b-aef1-4399-b8d4-76a6be2f919f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[118]/preceding::a[1]</value>
+      <webElementGuid>8572c948-3f0b-4a9c-b416-ff9c298b9c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BADAN PENGELOLA KEUANGAN DAN ASET DAERAH']/parent::*</value>
+      <webElementGuid>77f699b7-bc7c-454f-9349-b6db561df8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[171]</value>
+      <webElementGuid>9ff06691-4a8a-455f-a172-44cc3f86bb49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]/div/section/div/div/div/div/div/div/div[5]/div/a</value>
+      <webElementGuid>e13158b9-e22c-465d-bcf9-daaf5f9357ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'BADAN PENGELOLA KEUANGAN DAN ASET DAERAH' or . = 'BADAN PENGELOLA KEUANGAN DAN ASET DAERAH')]</value>
+      <webElementGuid>945aa6f5-ee8c-49f3-9819-bab624ef5244</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

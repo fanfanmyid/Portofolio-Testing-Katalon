@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DINAS PENANAMAN MODAL DAN PTSP</name>
+   <tag></tag>
+   <elementGuidId>c8b93a11-2ad6-47bb-9569-9174f97ea3c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-17615 > a.elementor-toggle-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-17615']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5470ba14-e2d2-4389-a69a-067964435f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-title</value>
+      <webElementGuid>b9eae43d-b430-4872-a31b-51c7e53522d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DINAS PENANAMAN MODAL DAN PTSP</value>
+      <webElementGuid>ffd16604-9be4-486d-9796-5a380b71ee6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-17615&quot;)/a[@class=&quot;elementor-toggle-title&quot;]</value>
+      <webElementGuid>7a544411-6e0a-4784-b54c-a713dd663c50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-17615']/a</value>
+      <webElementGuid>2d9c050e-773e-4e3f-8238-2a00c9d82a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DINAS PENANAMAN MODAL DAN PTSP')]</value>
+      <webElementGuid>cc813b96-8805-41f4-8401-5fcb399a6b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dispora.makassarkota.go.id'])[1]/following::a[1]</value>
+      <webElementGuid>4ce166a8-ac32-439b-9398-536ac6d98028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[42]/following::a[2]</value>
+      <webElementGuid>98f0ef70-ca4c-4200-bed9-2a57e9a50e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[15]/preceding::a[1]</value>
+      <webElementGuid>2a8fe2a1-4f08-4340-a8f8-d15e2ae849b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[43]/preceding::a[1]</value>
+      <webElementGuid>234e5322-259c-455d-9d7a-f4f7afde4acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DINAS PENANAMAN MODAL DAN PTSP']/parent::*</value>
+      <webElementGuid>fc1a1000-b3be-4bad-8408-be1dfec932fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[104]</value>
+      <webElementGuid>fd0817a8-20ca-40a6-8ab6-c9fdb73f3e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/a</value>
+      <webElementGuid>71c8be3a-fe6a-43e5-9e98-6809d194fe46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'DINAS PENANAMAN MODAL DAN PTSP' or . = 'DINAS PENANAMAN MODAL DAN PTSP')]</value>
+      <webElementGuid>28b2d574-17f9-4b93-8c03-957b34d5d87e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

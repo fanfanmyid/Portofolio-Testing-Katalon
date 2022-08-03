@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_KECAMATAN UJUNG PANDANG</name>
+   <tag></tag>
+   <elementGuidId>8aee5543-b1aa-4bb3-a98d-92a769b9822f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-18213 > a.elementor-toggle-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-18213']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>21b59fb0-5c97-4abe-ad04-3a5d0fd27ce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-title</value>
+      <webElementGuid>fef81678-2a53-4bff-8df5-c28845ab43a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KECAMATAN UJUNG PANDANG</value>
+      <webElementGuid>79478d9e-3a02-4f89-9273-533dcdc4f06e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-18213&quot;)/a[@class=&quot;elementor-toggle-title&quot;]</value>
+      <webElementGuid>08878e19-a040-44b3-9cd8-8cd8f1bc727e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-18213']/a</value>
+      <webElementGuid>b9faed24-85d0-4f36-a498-04af070806bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'KECAMATAN UJUNG PANDANG')]</value>
+      <webElementGuid>150298b0-2658-469f-8f24-1f6fffdb2905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tamalatekec.makassarkota.go.id'])[1]/following::a[1]</value>
+      <webElementGuid>1963311f-af5e-4765-b8cf-0bb9c91ca5d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[162]/following::a[2]</value>
+      <webElementGuid>e65c9c85-ac5f-4b9a-a650-fec90e463fe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[59]/preceding::a[1]</value>
+      <webElementGuid>6d944e69-0835-479a-b1fe-9fc954fce3fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[163]/preceding::a[1]</value>
+      <webElementGuid>25a79a79-bcbe-4e7b-ad5b-d0b8f4ccb514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KECAMATAN UJUNG PANDANG']/parent::*</value>
+      <webElementGuid>0220ac6c-6cdc-4630-8766-31960e045fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[216]</value>
+      <webElementGuid>cbfeda15-4b9a-4435-bcbc-8d8ad59f3f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[2]/div/section/div/div/div/div/div/div/div[13]/div/a</value>
+      <webElementGuid>8129710d-4485-4efc-9ea6-32d1957f4795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'KECAMATAN UJUNG PANDANG' or . = 'KECAMATAN UJUNG PANDANG')]</value>
+      <webElementGuid>1e7442f2-eb00-46a5-ad1d-d4f23b8a9c41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TENTANG MAKASSAR_uc_dactive bbb headin_fc150b</name>
+   <tag></tag>
+   <elementGuidId>7532dcaf-a14b-494a-8140-ed6018a01ef5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.uc_dactive.bbb.heading-padding.ue_accordion_icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uc_content_accordion_elementor42239']/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf10b024-06b8-4746-ad34-46cfc4b6aa60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uc_dactive bbb heading-padding ue_accordion_icon</value>
+      <webElementGuid>975af93e-245b-476a-9d86-1202543cc96b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor42239&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc-heading uc_trigger-uc_content_accordion_elementor42239&quot;]/span[@class=&quot;uc_dactive bbb heading-padding ue_accordion_icon&quot;]</value>
+      <webElementGuid>22c0aaed-e285-45fc-b295-edfed2b02728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8767b60c-db5e-4be9-81c3-d401003c82fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uc_dactive bbb heading-padding ue_accordion_icon</value>
+      <webElementGuid>36d81685-b6ae-4a17-8905-cbd0e9ef52d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor42077&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc-heading uc_trigger-uc_content_accordion_elementor42077&quot;]/span[@class=&quot;uc_dactive bbb heading-padding ue_accordion_icon&quot;]</value>
+      <webElementGuid>69abe4aa-32b6-4572-836f-00c60a3a992e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc_content_accordion_elementor42239']/div/div/div/span</value>
+      <webElementGuid>8960bfbc-f6d2-4237-a334-a434b5cfff13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TENTANG MAKASSAR'])[1]/following::span[1]</value>
+      <webElementGuid>78655160-9961-4337-8574-e313222193c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[2]/following::span[1]</value>
+      <webElementGuid>67a02788-2d2d-4bd3-b47f-ec377f437c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEKILAS MAKASSAR'])[1]/preceding::span[2]</value>
+      <webElementGuid>3872f45c-bc33-4a08-ad4a-d3fd54bcfd85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGO KOTA MAKASSAR'])[2]/preceding::span[2]</value>
+      <webElementGuid>29a534ee-ee4e-441a-ba00-96b5f00db85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>7cf85c6a-7bc7-496a-a009-bb73b0d6865d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc_content_accordion_elementor42077']/div/div/div/span</value>
+      <webElementGuid>9b779341-0ad9-40a5-9cea-c0dd05f3ba5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

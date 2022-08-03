@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDU_24eb9d</name>
+   <tag></tag>
+   <elementGuidId>3afa2215-fc93-4ede-81db-15949445053b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-17613 > a.elementor-toggle-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-17613']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5b8ae892-d025-4559-add1-138f1b7b6fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-title</value>
+      <webElementGuid>ca0083f6-aef8-465b-b8b0-ead618f7f300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK</value>
+      <webElementGuid>ca2be7e4-4bc7-4660-9d3f-b9eff0725386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-17613&quot;)/a[@class=&quot;elementor-toggle-title&quot;]</value>
+      <webElementGuid>df317b82-7cb6-4337-b829-50903dbd3687</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-17613']/a</value>
+      <webElementGuid>9bd232b0-4ae5-40d5-8e0a-c2ae8ad9326e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK')]</value>
+      <webElementGuid>46d2677a-2b80-47a8-ba6d-792f5927e22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='damkar.makassarkota.go.id'])[1]/following::a[1]</value>
+      <webElementGuid>77846ad3-7d10-4c16-980c-887799acf249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[36]/following::a[2]</value>
+      <webElementGuid>ca4f2e1c-cb39-4fc6-9a87-fd0bf3151677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[13]/preceding::a[1]</value>
+      <webElementGuid>7c7d392a-913e-4f86-a45a-6b419471887d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[37]/preceding::a[1]</value>
+      <webElementGuid>c42fe27a-60ad-4234-bdd9-eb5254c9bffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK']/parent::*</value>
+      <webElementGuid>6c2475aa-0998-482d-a9fe-2ed47d57fa1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[98]</value>
+      <webElementGuid>5930a812-191e-45bc-974e-65c946b72672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/a</value>
+      <webElementGuid>6f2d1b72-3cb4-4359-8f7e-50554d73aaf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK' or . = 'DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK')]</value>
+      <webElementGuid>c81bcda9-97d4-4c49-9fb4-4bf8cc386fe7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

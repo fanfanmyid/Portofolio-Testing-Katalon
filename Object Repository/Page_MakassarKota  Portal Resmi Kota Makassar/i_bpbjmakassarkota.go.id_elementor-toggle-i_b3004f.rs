@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_bpbjmakassarkota.go.id_elementor-toggle-i_b3004f</name>
+   <tag></tag>
+   <elementGuidId>cd5efb1d-3e1b-4793-b927-a61ebefe9440</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-1825 > span.elementor-toggle-icon.elementor-toggle-icon-left > span.elementor-toggle-icon-opened > i.elementor-toggle-icon-opened.fas.fa-caret-up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-1825']/span/span[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d456e982-2ba1-4066-8276-a7469aead16d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-icon-opened fas fa-caret-up</value>
+      <webElementGuid>bd75fa95-003e-473f-aadc-1056c7c1d26c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor71817&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc_content&quot;]/div[@class=&quot;elementor elementor-12430&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-5b865288 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-451ffef4&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-6cf29109 elementor-widget elementor-widget-toggle&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-toggle&quot;]/div[@class=&quot;elementor-toggle-item&quot;]/div[@id=&quot;elementor-tab-title-1825&quot;]/span[@class=&quot;elementor-toggle-icon elementor-toggle-icon-left&quot;]/span[@class=&quot;elementor-toggle-icon-opened&quot;]/i[@class=&quot;elementor-toggle-icon-opened fas fa-caret-up&quot;]</value>
+      <webElementGuid>59c19af8-2057-43ac-a114-bfcd9d9c7ba0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-1825']/span/span[2]/i</value>
+      <webElementGuid>5629d970-7143-4d9e-bf19-719b24973a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[2]/div/section/div/div/div/div/div/div/div[5]/div/span/span[2]/i</value>
+      <webElementGuid>6736eb25-9705-46e3-8c1d-9daa05c81180</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

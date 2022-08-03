@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_bapenda.makassar.go.id_fas fa-caret-right</name>
+   <tag></tag>
+   <elementGuidId>6a287e56-d3cb-4044-9918-190ba37a3dcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-2104 > span.elementor-toggle-icon.elementor-toggle-icon-left > span.elementor-toggle-icon-closed > i.fas.fa-caret-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-2104']/span/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>777b959c-ee1e-4ffa-9476-105fb5382db3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-caret-right</value>
+      <webElementGuid>64ff2176-0b61-4f3a-ae6f-aec8799dbeca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-2104&quot;)/span[@class=&quot;elementor-toggle-icon elementor-toggle-icon-left&quot;]/span[@class=&quot;elementor-toggle-icon-closed&quot;]/i[@class=&quot;fas fa-caret-right&quot;]</value>
+      <webElementGuid>674f0558-d129-4fbf-a71b-111512f4e4e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-2104']/span/span/i</value>
+      <webElementGuid>f7371c09-feea-4cac-b0d7-cba14e631aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]/div/section/div/div/div/div/div/div/div[4]/div/span/span/i</value>
+      <webElementGuid>8e038d88-fea2-4acf-9011-ca232b0a6b16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_protokolmakassarkota.go.id_fas fa-caret-right</name>
+   <tag></tag>
+   <elementGuidId>20999a7d-919c-4f15-a4f6-862d168f0d05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-1829 > span.elementor-toggle-icon.elementor-toggle-icon-left > span.elementor-toggle-icon-closed > i.fas.fa-caret-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-1829']/span/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>11af15e3-1fc9-454e-83a7-4b78e319b8ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-caret-right</value>
+      <webElementGuid>8781bbcb-aaf2-4f55-93e8-e82ce3c53fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor71817&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc_content&quot;]/div[@class=&quot;elementor elementor-12430&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-5b865288 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-451ffef4&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-6cf29109 elementor-widget elementor-widget-toggle&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-toggle&quot;]/div[@class=&quot;elementor-toggle-item&quot;]/div[@id=&quot;elementor-tab-title-1829&quot;]/span[@class=&quot;elementor-toggle-icon elementor-toggle-icon-left&quot;]/span[@class=&quot;elementor-toggle-icon-closed&quot;]/i[@class=&quot;fas fa-caret-right&quot;]</value>
+      <webElementGuid>870adfb7-b5ae-4723-8e4c-35d157d8add7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-1829']/span/span/i</value>
+      <webElementGuid>851e9fbc-1d4e-43a1-8978-ad7a52724a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[2]/div/section/div/div/div/div/div/div/div[9]/div/span/span/i</value>
+      <webElementGuid>187bab65-8de2-41d2-9f62-afee6d652659</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

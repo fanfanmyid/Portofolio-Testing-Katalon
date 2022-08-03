@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_satpolpp.makassarkota.go.id_fas fa-plus</name>
+   <tag></tag>
+   <elementGuidId>f4395cbd-93cc-4408-9e77-f5813963c905</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.uc-heading.uc_trigger-uc_content_accordion_elementor71817 > span.uc_dactive.bbb.heading-padding.ue_accordion_icon > i.fas.fa-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uc_content_accordion_elementor71817']/div/div/div/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>029e0b95-fb12-49e8-88de-d007ce90f566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus</value>
+      <webElementGuid>afc6cf52-be96-468c-9f0c-c8cb35aee44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor71817&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc-heading uc_trigger-uc_content_accordion_elementor71817&quot;]/span[@class=&quot;uc_dactive bbb heading-padding ue_accordion_icon&quot;]/i[@class=&quot;fas fa-plus&quot;]</value>
+      <webElementGuid>8cf93512-7a08-4a03-8b35-e3dfd6867983</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc_content_accordion_elementor71817']/div/div/div/span/i</value>
+      <webElementGuid>5b7a4721-cf9e-4a4b-9f18-d58a080ddd2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/div/div/div/div/span/i</value>
+      <webElementGuid>1d5a1607-475e-4bcb-aea7-2961e447f582</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

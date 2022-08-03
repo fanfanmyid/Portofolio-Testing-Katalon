@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_PETA  WILAYAH ADMINISTRASI KOTA MAKASSAR__5f3119</name>
+   <tag></tag>
+   <elementGuidId>17a1d9ba-9f1f-4b7d-a55e-408c9cde8392</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.uc-heading.uc_trigger-uc_content_accordion_elementor51707.active > span.uc_active.bbb.heading-padding.ue_accordion_icon > i.fas.fa-minus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uc_content_accordion_elementor51707']/div/div/div/span[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5556ecac-1d79-490d-aae6-c80cefac3cdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-minus</value>
+      <webElementGuid>0fedc176-cea3-4008-bce9-203e6796ff15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor51707&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc-heading uc_trigger-uc_content_accordion_elementor51707 active&quot;]/span[@class=&quot;uc_active bbb heading-padding ue_accordion_icon&quot;]/i[@class=&quot;fas fa-minus&quot;]</value>
+      <webElementGuid>d76a5055-9c68-4826-8d79-ddf5b903e7af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc_content_accordion_elementor51707']/div/div/div/span[2]/i</value>
+      <webElementGuid>a345f624-bb37-453e-b76b-93fd9a94ff38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/span[2]/i</value>
+      <webElementGuid>e4a5aa00-2364-4fa4-948a-17d4c789dd64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ORGANISASI PERANGKAT DAERAH_fas fa-plus</name>
+   <tag></tag>
+   <elementGuidId>d28c15bc-0af6-49aa-8e19-32c55808da1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.uc-heading.uc_trigger-uc_content_accordion_elementor66868 > span.uc_dactive.bbb.heading-padding.ue_accordion_icon > i.fas.fa-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uc_content_accordion_elementor66868']/div/div/div/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7c427fc5-fec9-4578-b130-fea6f343cb85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus</value>
+      <webElementGuid>8581b437-c0e6-4740-96e7-a7b58c950a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor66868&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc-heading uc_trigger-uc_content_accordion_elementor66868&quot;]/span[@class=&quot;uc_dactive bbb heading-padding ue_accordion_icon&quot;]/i[@class=&quot;fas fa-plus&quot;]</value>
+      <webElementGuid>a70f602d-1de3-4809-a35b-96bb3a3f0079</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc_content_accordion_elementor66868']/div/div/div/span/i</value>
+      <webElementGuid>636d5b5c-8236-4b51-858c-8109e1515d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div/div/div/div/span/i</value>
+      <webElementGuid>7a33207d-23be-46bd-a097-984a0e9f5c96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_rappocinikec.makassarkota.go.id_elemen_95ff87</name>
+   <tag></tag>
+   <elementGuidId>86c5e542-6f39-4a13-b15b-77e5825d1e5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.elementor.elementor-12710 > section.elementor-section.elementor-top-section.elementor-element.elementor-element-5b865288.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-451ffef4 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-6cf29109.elementor-widget.elementor-widget-toggle > div.elementor-widget-container > div.elementor-toggle > div.elementor-toggle-item > #elementor-tab-title-1829 > span.elementor-toggle-icon.elementor-toggle-icon-left > span.elementor-toggle-icon-closed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='elementor-tab-title-1829']/span/span)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e75fdcec-52a4-4078-9ef5-f8c62513ed29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-icon-closed</value>
+      <webElementGuid>0df62f97-f341-43a2-8bbb-95a1f47f822d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor93345&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc_content&quot;]/div[@class=&quot;elementor elementor-12710&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-5b865288 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-451ffef4&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-6cf29109 elementor-widget elementor-widget-toggle&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-toggle&quot;]/div[@class=&quot;elementor-toggle-item&quot;]/div[@id=&quot;elementor-tab-title-1829&quot;]/span[@class=&quot;elementor-toggle-icon elementor-toggle-icon-left&quot;]/span[@class=&quot;elementor-toggle-icon-closed&quot;]</value>
+      <webElementGuid>0d58c361-332d-40da-807c-67f34930c191</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='elementor-tab-title-1829']/span/span)[3]</value>
+      <webElementGuid>d9dcf455-56b2-4b6a-8052-09e638fab293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rappocinikec.makassarkota.go.id'])[1]/following::span[2]</value>
+      <webElementGuid>ecbb1295-9642-4221-859c-5bd7e4c7afb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[150]/following::span[2]</value>
+      <webElementGuid>fe70e9c0-0604-4fd7-bddf-7671a619a096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KECAMATAN KEP. SANGKARRANG'])[1]/preceding::span[2]</value>
+      <webElementGuid>30e5b9c0-3dc1-468b-ab8e-ff9ee3967d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[55]/preceding::span[2]</value>
+      <webElementGuid>2d159039-a930-4902-94ef-705c7ae5ba19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[2]/div/section/div/div/div/div/div/div/div[9]/div/span/span</value>
+      <webElementGuid>b1b61d36-92aa-4b4c-aed9-4a7c690febe3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

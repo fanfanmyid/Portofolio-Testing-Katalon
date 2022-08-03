@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BADAN KEPEGAWAIAN  PENGEMBANGAN SDM DAERAH</name>
+   <tag></tag>
+   <elementGuidId>53ae7434-3b1b-4b5f-b998-88b6e3bd8fb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-2101 > a.elementor-toggle-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-2101']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cbc83199-7576-44e8-852f-153f8cd04f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-title</value>
+      <webElementGuid>dcc80d25-8afa-4663-8bf7-1224849813f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BADAN KEPEGAWAIAN &amp; PENGEMBANGAN SDM DAERAH</value>
+      <webElementGuid>12fae370-9fc1-4405-9338-6758a64e18c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-2101&quot;)/a[@class=&quot;elementor-toggle-title&quot;]</value>
+      <webElementGuid>a80be56d-9c02-4fe5-82b2-8ad54b75ad4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-2101']/a</value>
+      <webElementGuid>04865bb7-d8ee-4ce0-a54a-ec5b4968913d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BADAN KEPEGAWAIAN &amp; PENGEMBANGAN SDM DAERAH')]</value>
+      <webElementGuid>98da9842-b8f3-4901-9c67-6dbee75ee5ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BADAN'])[1]/following::a[1]</value>
+      <webElementGuid>b1c01aa7-1115-44c4-8f6a-1f756c23186d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[105]/following::a[1]</value>
+      <webElementGuid>49f2089a-1bcf-4e88-9368-ed6bbd1ffa69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[40]/preceding::a[1]</value>
+      <webElementGuid>9a9e8e60-47c9-457b-86a9-e417047fc143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[106]/preceding::a[1]</value>
+      <webElementGuid>f6e6bd62-8331-4fb8-bddb-e1bebc694054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BADAN KEPEGAWAIAN &amp; PENGEMBANGAN SDM DAERAH']/parent::*</value>
+      <webElementGuid>2afc2f5c-9df4-43f0-b76e-939b24d4dc75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[159]</value>
+      <webElementGuid>abe5babd-6635-4eba-aff4-5982488f0968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]/div/section/div/div/div/div/div/div/div/div/a</value>
+      <webElementGuid>46f2d814-b16b-4670-9871-54c21fa0a438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'BADAN KEPEGAWAIAN &amp; PENGEMBANGAN SDM DAERAH' or . = 'BADAN KEPEGAWAIAN &amp; PENGEMBANGAN SDM DAERAH')]</value>
+      <webElementGuid>4dbe21f2-14b8-4aa5-93f2-36f08a67c0c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

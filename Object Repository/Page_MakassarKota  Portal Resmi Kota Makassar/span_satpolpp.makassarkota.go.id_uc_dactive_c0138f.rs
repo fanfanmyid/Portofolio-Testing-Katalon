@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_satpolpp.makassarkota.go.id_uc_dactive_c0138f</name>
+   <tag></tag>
+   <elementGuidId>7efce1cc-bb7e-418e-876c-6c8a8c7b736d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.uc-heading.uc_trigger-uc_content_accordion_elementor78253 > span.uc_dactive.bbb.heading-padding.ue_accordion_icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uc_content_accordion_elementor78253']/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8843adea-2398-4d5f-a0c5-f750379c0bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uc_dactive bbb heading-padding ue_accordion_icon</value>
+      <webElementGuid>0688e330-8448-46b3-afdf-d1d991167907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor78253&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc-heading uc_trigger-uc_content_accordion_elementor78253&quot;]/span[@class=&quot;uc_dactive bbb heading-padding ue_accordion_icon&quot;]</value>
+      <webElementGuid>d6b3a125-1705-4be3-8696-2791cd6589e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8129dbdc-29bc-459d-baf4-f45cde941e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uc_dactive bbb heading-padding ue_accordion_icon</value>
+      <webElementGuid>6499896d-2440-4cff-a659-916a8b4cafa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor71817&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc-heading uc_trigger-uc_content_accordion_elementor71817&quot;]/span[@class=&quot;uc_dactive bbb heading-padding ue_accordion_icon&quot;]</value>
+      <webElementGuid>63f6f52c-6a67-4364-b4c6-373ee436511e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc_content_accordion_elementor78253']/div/div/div/span</value>
+      <webElementGuid>a47f6f26-cd59-45ab-b9f6-4b4ca2a3ec01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='satpolpp.makassarkota.go.id'])[1]/following::span[1]</value>
+      <webElementGuid>381590e1-2d9e-439c-96aa-4230fea08316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[81]/following::span[1]</value>
+      <webElementGuid>cf3db78d-0d08-47f8-8f92-61f8daf34050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BAGIAN'])[1]/preceding::span[2]</value>
+      <webElementGuid>bb29cc8e-50da-46b6-9ec3-c2966d0c4e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BAGIAN HUKUM'])[1]/preceding::span[5]</value>
+      <webElementGuid>1cc5709e-09f4-4b19-ba97-c191fd9900e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/div/div/div/div/span</value>
+      <webElementGuid>9dbb8ac7-0d88-4449-9cf4-b3981f4bdb65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc_content_accordion_elementor71817']/div/div/div/span</value>
+      <webElementGuid>7cc60382-b5c2-4de5-a589-b6b19a6396b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

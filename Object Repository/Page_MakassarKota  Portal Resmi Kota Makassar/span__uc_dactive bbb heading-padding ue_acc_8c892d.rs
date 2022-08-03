@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__uc_dactive bbb heading-padding ue_acc_8c892d</name>
+   <tag></tag>
+   <elementGuidId>2bec597e-c867-4f23-a3f9-f5adb69397f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.uc-heading.uc_trigger-uc_content_accordion_elementor86662 > span.uc_dactive.bbb.heading-padding.ue_accordion_icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uc_content_accordion_elementor86662']/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aec7bf31-3e96-43c9-9c84-c67225fc5585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uc_dactive bbb heading-padding ue_accordion_icon</value>
+      <webElementGuid>f9bba078-5c03-4a72-b4d1-2a4d43a07e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor86662&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc-heading uc_trigger-uc_content_accordion_elementor86662&quot;]/span[@class=&quot;uc_dactive bbb heading-padding ue_accordion_icon&quot;]</value>
+      <webElementGuid>5581a8a1-fe44-4927-a182-829f07e40d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>253a216d-fe9f-4c1d-b198-813705459b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uc_dactive bbb heading-padding ue_accordion_icon</value>
+      <webElementGuid>b06119ac-79dd-403a-bc24-b10710de33d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor83211&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc-heading uc_trigger-uc_content_accordion_elementor83211&quot;]/span[@class=&quot;uc_dactive bbb heading-padding ue_accordion_icon&quot;]</value>
+      <webElementGuid>1b2a0a9f-4a98-46f2-a334-864433cca5a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc_content_accordion_elementor86662']/div/div/div/span</value>
+      <webElementGuid>98b9ae2f-79ad-46ba-8c72-8e9f50c1ae98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[105]/following::span[1]</value>
+      <webElementGuid>caa034b4-a05b-4a75-bc87-2515062f9062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[39]/following::span[1]</value>
+      <webElementGuid>f1aee4f6-87c2-4797-a927-d1555eefa76f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BADAN'])[1]/preceding::span[2]</value>
+      <webElementGuid>4d8a3e04-cd26-4998-9251-3303e3870081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BADAN KEPEGAWAIAN &amp; PENGEMBANGAN SDM DAERAH'])[1]/preceding::span[5]</value>
+      <webElementGuid>10539667-f6a5-4a57-928f-362bc17dbb9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/span</value>
+      <webElementGuid>b5e1535a-3991-4b81-87f0-4e4eaef20f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc_content_accordion_elementor83211']/div/div/div/span</value>
+      <webElementGuid>63f0dac1-56cd-4d63-a591-14f99cfdd927</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

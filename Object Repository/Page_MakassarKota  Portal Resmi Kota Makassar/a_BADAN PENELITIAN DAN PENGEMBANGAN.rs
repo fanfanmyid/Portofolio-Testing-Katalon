@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BADAN PENELITIAN DAN PENGEMBANGAN</name>
+   <tag></tag>
+   <elementGuidId>4b73487b-401e-4a7e-8c56-59060f549749</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#elementor-tab-title-2104 > a.elementor-toggle-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-title-2104']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1b3a8b8c-6900-496d-9516-134ca8d9e1bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-toggle-title</value>
+      <webElementGuid>e23bcb49-1002-4268-9448-3cd6ae09f0eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BADAN PENELITIAN DAN PENGEMBANGAN</value>
+      <webElementGuid>24d472a9-9e00-4b15-a19f-1d7ef77e6170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-title-2104&quot;)/a[@class=&quot;elementor-toggle-title&quot;]</value>
+      <webElementGuid>233132bb-31a8-4907-ae85-8fa4924d5fac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-title-2104']/a</value>
+      <webElementGuid>ce36b9fa-463a-41e1-93a2-8b4a41360d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BADAN PENELITIAN DAN PENGEMBANGAN')]</value>
+      <webElementGuid>19323d92-d481-4809-bca0-8c02091a3eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bapenda.makassar.go.id'])[1]/following::a[1]</value>
+      <webElementGuid>9b1bd83c-a0b2-4624-94ae-f48047afcf38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[114]/following::a[2]</value>
+      <webElementGuid>24996052-0a45-4340-8790-b88071fa4ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[43]/preceding::a[1]</value>
+      <webElementGuid>8a03c1ec-6539-4c74-b882-ff06be73b12f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[115]/preceding::a[1]</value>
+      <webElementGuid>e9245081-f2dd-457e-a8a9-348f23e72f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BADAN PENELITIAN DAN PENGEMBANGAN']/parent::*</value>
+      <webElementGuid>280de770-abeb-4726-89b4-d07498dff4a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[168]</value>
+      <webElementGuid>55f6c9ae-4224-4e86-b367-e5a8a297eec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]/div/section/div/div/div/div/div/div/div[4]/div/a</value>
+      <webElementGuid>cb5bd859-1d6f-4278-b9eb-ce61b158c025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'BADAN PENELITIAN DAN PENGEMBANGAN' or . = 'BADAN PENELITIAN DAN PENGEMBANGAN')]</value>
+      <webElementGuid>ba6ef77e-5df8-403e-afa1-dfad52a647cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

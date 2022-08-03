@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TENTANG MAKASSAR_uc_active bbb heading_188622</name>
+   <tag></tag>
+   <elementGuidId>1d660378-e0ac-49dd-9fc2-c7a4e9d5d97c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.uc_active.bbb.heading-padding.ue_accordion_icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uc_content_accordion_elementor42077']/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a1159e7a-1bcd-479d-ad45-75297b11bfbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uc_active bbb heading-padding ue_accordion_icon</value>
+      <webElementGuid>70fdafc4-d01a-4058-bea2-40caedd91194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor42077&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc-heading uc_trigger-uc_content_accordion_elementor42077 active&quot;]/span[@class=&quot;uc_active bbb heading-padding ue_accordion_icon&quot;]</value>
+      <webElementGuid>561dafa7-84dd-436b-8a4d-8d11a7b9b973</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc_content_accordion_elementor42077']/div/div/div/span[2]</value>
+      <webElementGuid>7fba4148-13bd-4a5a-9837-b0307c695e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TENTANG MAKASSAR'])[1]/following::span[2]</value>
+      <webElementGuid>36cc0e23-2ed2-4ac4-b44b-097a4fa2a64e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website'])[2]/following::span[2]</value>
+      <webElementGuid>d9e5390c-db74-4bb1-b809-0783299e0a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEKILAS MAKASSAR'])[1]/preceding::span[1]</value>
+      <webElementGuid>fdadb593-1abf-455e-9ecc-ddfc2241ebec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGO KOTA MAKASSAR'])[2]/preceding::span[1]</value>
+      <webElementGuid>ab965d53-c28d-47a8-a3b4-8416fc30e080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>e0bb9ebe-8a97-434a-91a6-d9fc40b198c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

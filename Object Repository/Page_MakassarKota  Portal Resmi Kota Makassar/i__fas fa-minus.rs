@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__fas fa-minus</name>
+   <tag></tag>
+   <elementGuidId>8b2101db-d170-4113-83c8-090f94b2e36d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.uc-heading.uc_trigger-uc_content_accordion_elementor83211.active > span.uc_active.bbb.heading-padding.ue_accordion_icon > i.fas.fa-minus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uc_content_accordion_elementor83211']/div/div/div/span[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2203bf0b-fe90-4ac6-940c-f41172a10039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-minus</value>
+      <webElementGuid>81c7660d-9379-4c06-845a-dddee21cfd3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uc_content_accordion_elementor83211&quot;)/div[@class=&quot;uc_container&quot;]/div[@class=&quot;uc_ac_box&quot;]/div[@class=&quot;uc-heading uc_trigger-uc_content_accordion_elementor83211 active&quot;]/span[@class=&quot;uc_active bbb heading-padding ue_accordion_icon&quot;]/i[@class=&quot;fas fa-minus&quot;]</value>
+      <webElementGuid>e00c8b41-c2e5-47ed-ba72-c28726dfdbb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc_content_accordion_elementor83211']/div/div/div/span[2]/i</value>
+      <webElementGuid>2846922f-01b0-4700-9b05-e3371d5cf545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/span[2]/i</value>
+      <webElementGuid>7c322993-f4f2-4883-be45-02c04cbfd50e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
